@@ -1,0 +1,22 @@
+{
+  "name": "uzma-cli-giaic-currency-converter",
+  "version": "2.0.1",
+  "description": "This is my 4rth project of Currency Converter.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UZMA RAIZ",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "undici-types": "^5.26.5"
+  }
+}
